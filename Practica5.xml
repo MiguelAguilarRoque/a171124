@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:practica5.xsl"?>
+<motocicleta>
+    <motocicleta>
+      <marca>Italika</marca>
+      <modelo>2010</modelo>
+      <color>rojo</color>
+      <tipo>choper</tipo>
+    </motocicleta>
+      <motocicleta>
+      <marca>Dinamo</marca>
+      <modelo>2015</modelo>
+      <color>negro</color>
+      <tipo>motocross</tipo>
+    </motocicleta>
+      <motocicleta>
+      <marca>VMW</marca>
+      <modelo>2020</modelo>
+      <color>gris</color>
+      <tipo>motocross</tipo>
+    </motocicleta>
+</motocicleta>
